@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @127Gar. I currently live in Northern California but am open to relocating and remote work.
-- 👀 I’m interested in Linux systems administration, front-end web development, privacy, and free software develpment.
-- 🌱 I’m currently learning through Coursea, EdX, and the Linux Foundation.
-- 💞️ I’m looking to collaborate on low-bloat web design
-- 📫 How to reach me …
+-  Hello there! I’m Austin Miller. I currently live in Lincoln, Nebraska, capital of Silicon Prarie.
+- 👀 I am interested in GNU/Linux systems administration, web development, privacy, and FLOSS software development.
+- How to reach me:
 
 <!---
 127Gar/127Gar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
